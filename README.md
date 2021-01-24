@@ -7,8 +7,9 @@ We use 2 pre-trained models of face detection and face-mask classification.
 Then, we use OpenCV to run the model inference.
 
 
-
 ### Installing
+
+`Develop on Mac OS and JDK 11`
 
 download the project
 ``` shell script
